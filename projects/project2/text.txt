@@ -1,0 +1,151 @@
+nav class="navbar navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+      <img src="logo.jpg" alt="" width="100" height="100">
+    </a>
+  </div>
+</nav>
+
+    <nav class="navbar navbar-expand-lg">
+  <div class="container">
+    
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav m-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown link
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+
+<span class="col-lg-4 col-md-6 mt-3 mb-3 d-flex justify-content-center">
+<div class="card">
+<div class="card-header">
+<img src="bike.jpg" class="card-img-top">
+<div class="card-body text-center fw-bold">
+Two-Wheeler Battery
+<div class=" text-center fw-bold">NRP :</div>
+<div class=" text-center fw-bold">2000 - 3500</div>
+<button class="btn btn-primary btn-sm d-flex m-auto">
+ Quick View</button>
+</div>
+</div>
+</div>
+</span>
+
+
+
+<section id="contact">
+			<div class="section-content">
+				<h1 class="section-header">Get in <span class="content-header wow fadeIn " data-wow-delay="0.2s" data-wow-duration="2s"> Touch with us</span></h1>
+				<h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h3>
+			</div>
+			<div class="contact-section">
+			<div class="container">
+				<form>
+					<div class="col-md-6 form-line">
+			  			<div class="form-group">
+			  				<label for="exampleInputUsername">Your name</label>
+					    	<input type="text" class="form-control" id="" placeholder=" Enter Name">
+				  		</div>
+				  		<div class="form-group">
+					    	<label for="exampleInputEmail">Email Address</label>
+					    	<input type="email" class="form-control" id="exampleInputEmail" placeholder=" Enter Email id">
+					  	</div>	
+					  	<div class="form-group">
+					    	<label for="telephone">Mobile No.</label>
+					    	<input type="tel" class="form-control" id="telephone" placeholder=" Enter 10-digit mobile no.">
+			  			</div>
+			  		</div>
+			  		<div class="col-md-6">
+			  			<div class="form-group">
+			  				<label for="description"> Message</label>
+			  			 	<textarea class="form-control" id="description" placeholder="Enter Your Message"></textarea>
+			  			</div>
+			  			<div>
+
+			  				<button type="button" class="btn btn-default submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>  Send Message</button>
+			  			</div>
+			  			
+					</div>
+				</form>
+			</div>
+		</div></section>
+
+		 <li><a class="dropdown-item" href="#">Provision No.1</a></li> 
+            <ul>
+             <li><a class="dropdown-item" href="#">dharan</a></li>
+             <li><a class="dropdown-item" href="#">Ithari</a></li>
+            </ul>          
+            <li><a class="dropdown-item" href="#">Butwal</a></li>
+            <li><a class="dropdown-item" href="#">Damak</a></li>
+            <li><a class="dropdown-item" href="#">Dang</a></li>
+            
+           
+             <li><a class="dropdown-item" href="#">Dhalkber</a></li>
+            <li><a class="dropdown-item" href="#">Dhankuta</a></li>
+            
+             <li><a class="dropdown-item" href="#">Gaighat</a></li>
+            <li><a class="dropdown-item" href="#">Golbazar</a></li>
+            <li><a class="dropdown-item" href="#">Illam</a></li>
+            
+             <li><a class="dropdown-item" href="#">Janakpur</a></li>
+            <li><a class="dropdown-item" href="#">Kakarvita</a></li>
+             <li><a class="dropdown-item" href="#">Katari</a></li>
+            <li><a class="dropdown-item" href="#">Kathmandu</a></li>
+             <li><a class="dropdown-item" href="#">Lahan</a></li>
+            <li><a class="dropdown-item" href="#">Mirchiya</a></li>
+            <li><a class="dropdown-item" href="#">Nepalgunj</a></li>
+            <li><a class="dropdown-item" href="#">Okhaldunga</a></li>
+            <li><a class="dropdown-item" href="#">Rajbiraj</a></li>
+             <li><a class="dropdown-item" href="#">Solu</a></li>
+
+
+
+			  <ul class="navbar-nav m-auto">
+       <li class="nav-item active"> <a href="#" class="nav-link"> Home </a> </li>
+            <li class="nav-item"> <a href="#" class="nav-link"> Services </a> </li>
+            <li class="nav-item"> <a href="#" class="nav-link"> About </a> </li>
+            <li class="nav-item"> <a href="#" class="nav-link"> Contact Us </a> </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+            Stores
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+           <li><a class="dropdown-item" href="#">provision no.1</a></li>
+           <li><a class="dropdown-item" href="#">provision no.2</a></li>
+            <li class="dropdown-submenu">
+             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            provision no.3
+          </a>
+          <ul class="dropdown-menu">
+          <li><a href="#">Service C1</a></li>
+                        <li><a href="#">Service C2</a></li>
+                        </ul>
+          </li>
+            </li>
+              
+
+          </ul> 
+          </li>
+          </ul>
+          
